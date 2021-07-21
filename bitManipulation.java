@@ -1,5 +1,6 @@
 import java.util.*;
 public class bitManipulation{
+    // learning git
     public static void main(String[] args) {    // find 2 non repeating elemnents in repeating elements
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
